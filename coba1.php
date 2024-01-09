@@ -1,2 +1,3 @@
-<?php "mencoba sajahhhh"
+<?php 
+echo "mencoba sajahhhh";
 ?>
